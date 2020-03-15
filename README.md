@@ -25,4 +25,5 @@ lstm模型存放在rnn_model.py中，数据集的处理程序在loader.py中
 
 ## 参考          
 (1) https://github.com/gaussic/text-classification-cnn-rnn      
-(2) https://github.com/cjymz886/text-cnn   
+(2) https://github.com/cjymz886/text-cnn     
+(3) https://github.com/cjymz886/text_rnn_attention    
