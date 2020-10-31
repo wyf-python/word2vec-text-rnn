@@ -1,4 +1,4 @@
-# Word2Vec-LSTM中文文本分类
+# Word2Vec-LSTM中文预料集合文本分类
 ## 环境       
 python3   
 tensorflow     
