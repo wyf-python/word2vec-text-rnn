@@ -1,0 +1,3 @@
+this is a beautiful world
+hello world
+this is wors2vec-text-rnn
